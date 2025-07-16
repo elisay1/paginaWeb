@@ -218,7 +218,7 @@ Si encuentras algún error, por favor crea un issue en el repositorio con:
 
 ## 👨‍💻 Autor
 
-**Elisay Jiménez** - Desarrollador Full Stack
+**ELISAY CODE** - Desarrollador Full Stack
 
 - 🌐 Website: [elisaycode.com](https://elisaycode.com)
 - 📧 Email: elisaycode@gmail.com
